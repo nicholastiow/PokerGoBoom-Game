@@ -30,5 +30,5 @@ No | Feature                                                                    
 
 Upload your video presentation to your Google drive or YouTube, then paste the link below. Give your lab lecturer the permission to view the video.
 
-https://drive.google.com/file/d/1LQnhASSHKPpUoky-JUriL9-c4Me0kBRW/view?usp=share_link
+[https://drive.google.com/file/d/1LQnhASSHKPpUoky-JUriL9-c4Me0kBRW/view?usp=share_link](https://drive.google.com/file/d/1NHCNQuFmm97LaOLuuUBayEKkmu_Wr3KW/view?usp=share_link)
 

@@ -1,5 +1,9 @@
 # TCP1201_TT8L_G7_Assignment
 
-Compilation Method
-1. javac GoBoomGame.java -> Compile the program
-2. java GoBoomGame -> Run the program
+## Compilation Method
+
+### Compile the Program
+javac GoBoomGame.java 
+
+### Run the Program
+java GoBoomGame

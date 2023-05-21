@@ -15,12 +15,8 @@ class Card {
     }
 
     
-    
-    
     @Override
     public String toString() {
-        // Return a string representation of the card
-        // ...
-        return suit + "" + rank; // Placeholder, replace with the actual implementation
+        return suit + "" + rank;
     }
 }    

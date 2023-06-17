@@ -28,7 +28,7 @@ You can download the Zulu17 compiler [here](https://www.azul.com/downloads/?vers
 5. **Screenshot 5**: Player Choose Card To Play
    ![Screenshot 5](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/1e381aac-ef7b-4b1b-ba12-db98a526ba8a)
 
-6. **Screenshot 6**: View Card On Hand For Each Players
+6. **Screenshot 6**: View Card On Hand Of Each Players
    ![Screenshot 6](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/5063af97-b8ef-48c1-8b08-35793d275a03)
 
 7. **Screenshot 7**: Save Game
@@ -37,12 +37,14 @@ You can download the Zulu17 compiler [here](https://www.azul.com/downloads/?vers
 ## How to Use
 1. Download and install the Zulu17 compiler from the provided link.
 2. Open the project in Visual Studio Code.
-3. Add all the .jar file in ./lib/ directory into the VSCode Referenced Library
-4. Compile the Java code using the Zulu17 compiler.
-5. Compile Command: ***javac GoBoomGame.java***
-6. Run the compiled code to start the game.
-7. Run compiled code command: ***java GoBoomGame***
-8. Follow the on-screen instructions to play the game.
+3. $ git clone https://github.com/nicholastiow/TCP1201_TT8L_G7_Assignment
+4. $ cd TCP1201_TT8L_G7_Assignment
+5. Add all the .jar file in ./lib/ directory into the VSCode Referenced Library
+6. Compile the Java code using the Zulu17 compiler.
+7. Compile Command: ***javac GoBoomGame.java***
+8. Run the compiled code to start the game.
+9. Run compiled code command: ***java GoBoomGame***
+10. Follow the on-screen instructions to play the game.
 
 Enjoy playing Poker Go Boom!
 

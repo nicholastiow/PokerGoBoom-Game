@@ -9,7 +9,7 @@ To compile and run this game, you will need:
 - Compiler: OpenJDK version "17.0.6" (LTS) - Zulu17
 
 You can download the Zulu17 compiler [here](https://www.azul.com/downloads/?version=java-17-lts&architecture=x86-64-bit&package=jdk-fx#zulu).
-1. **Screenshot VSCODE**: JAVAFX JDK MOVE ALL THE .jar file in ./lib/ into the VSCODE Referenced Library
+1. **Screenshot VSCODE**: These jar files are JAVAFX JDK. Add all the jar file into ./lib/ into the VSCODE Referenced Library.
 ![Screenshot_8](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/4509f7eb-ff8d-4f29-94d5-7a4a96ada978)
 
 ## Game Preview
@@ -19,7 +19,7 @@ You can download the Zulu17 compiler [here](https://www.azul.com/downloads/?vers
 2. **Screenshot 2**: Start a new game OR load progress of saved game.
    ![Screenshot 2](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/f085c920-265a-404f-9893-581a60d9cd1a)
 
-3. **Screenshot 3**: List Game Progress That Had Saved Before. Able To Restore / Delete Saved Game / start A New Game / EXIT
+3. **Screenshot 3**: List Game Progress That Had Saved Before. Able To Restore / Delete Saved Game / Start A New Game / EXIT
    ![Screenshot 3](https://github.com/Low0000/GUIPokerGoBoom/assets/123613860/8c10c2ed-b0d4-481f-a81e-278df7997129)
 
 4. **Screenshot 4**: Game Play Display
@@ -37,8 +37,8 @@ You can download the Zulu17 compiler [here](https://www.azul.com/downloads/?vers
 ## How to Use
 1. Download and install the Zulu17 compiler from the provided link.
 2. Open the project in Visual Studio Code.
-3. $ git clone https://github.com/nicholastiow/TCP1201_TT8L_G7_Assignment
-4. $ cd TCP1201_TT8L_G7_Assignment
+3. $ Command1: "git clone https://github.com/nicholastiow/TCP1201_TT8L_G7_Assignment"
+4. $ Command2: "cd TCP1201_TT8L_G7_Assignment"
 5. Add all the .jar file in ./lib/ directory into the VSCode Referenced Library
 6. Compile the Java code using the Zulu17 compiler.
 7. Compile Command: ***javac GoBoomGame.java***
